@@ -52,4 +52,7 @@ export const Images = styled.img`
 
 export const StyledLink = styled(Link)`
   margin: 0 10px;
+  &:hover{
+    color: yellow;
+  }
 `

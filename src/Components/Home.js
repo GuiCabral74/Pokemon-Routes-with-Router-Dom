@@ -1,4 +1,5 @@
 import { Info, Title } from "../Style/Styles";
+
 const Home = () => {
   return(
     <>

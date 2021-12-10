@@ -1,5 +1,6 @@
 import { Title, Images } from "../Style/Styles";
 import GardevoirImg from "./imgs/gardevoir.png"
+
 const Gardevoir = () => {
   return(
     <>
