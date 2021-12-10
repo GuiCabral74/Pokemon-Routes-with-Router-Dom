@@ -1,7 +1,7 @@
 {
   "name": "rotas-react",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "rotas-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
