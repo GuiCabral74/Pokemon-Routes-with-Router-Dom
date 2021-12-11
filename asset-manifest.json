@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.js": "/Pokemon-routes-with-Router-Dom/Home/static/js/main.35461860.chunk.js",
-    "main.js.map": "/Pokemon-routes-with-Router-Dom/Home/static/js/main.35461860.chunk.js.map",
-    "runtime-main.js": "/Pokemon-routes-with-Router-Dom/Home/static/js/runtime-main.68f0958c.js",
-    "runtime-main.js.map": "/Pokemon-routes-with-Router-Dom/Home/static/js/runtime-main.68f0958c.js.map",
-    "static/js/2.7e15d7c3.chunk.js": "/Pokemon-routes-with-Router-Dom/Home/static/js/2.7e15d7c3.chunk.js",
-    "static/js/2.7e15d7c3.chunk.js.map": "/Pokemon-routes-with-Router-Dom/Home/static/js/2.7e15d7c3.chunk.js.map",
-    "index.html": "/Pokemon-routes-with-Router-Dom/Home/index.html",
-    "static/js/2.7e15d7c3.chunk.js.LICENSE.txt": "/Pokemon-routes-with-Router-Dom/Home/static/js/2.7e15d7c3.chunk.js.LICENSE.txt",
-    "static/media/1-venusaur2.6e2becad.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/1-venusaur2.6e2becad.png",
-    "static/media/2-charizard2.1184e23a.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/2-charizard2.1184e23a.png",
-    "static/media/3-blastoise.d72c2400.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/3-blastoise.d72c2400.png",
-    "static/media/4-pikachu.0f6320b0.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/4-pikachu.0f6320b0.png",
-    "static/media/gardevoir.1d094fc1.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/gardevoir.1d094fc1.png",
-    "static/media/lucario.4bf3435e.png": "/Pokemon-routes-with-Router-Dom/Home/static/media/lucario.4bf3435e.png"
+    "main.js": "/Pokemon-routes-with-Router-Dom/static/js/main.35461860.chunk.js",
+    "main.js.map": "/Pokemon-routes-with-Router-Dom/static/js/main.35461860.chunk.js.map",
+    "runtime-main.js": "/Pokemon-routes-with-Router-Dom/static/js/runtime-main.2b6aadcc.js",
+    "runtime-main.js.map": "/Pokemon-routes-with-Router-Dom/static/js/runtime-main.2b6aadcc.js.map",
+    "static/js/2.d2841854.chunk.js": "/Pokemon-routes-with-Router-Dom/static/js/2.d2841854.chunk.js",
+    "static/js/2.d2841854.chunk.js.map": "/Pokemon-routes-with-Router-Dom/static/js/2.d2841854.chunk.js.map",
+    "index.html": "/Pokemon-routes-with-Router-Dom/index.html",
+    "static/js/2.d2841854.chunk.js.LICENSE.txt": "/Pokemon-routes-with-Router-Dom/static/js/2.d2841854.chunk.js.LICENSE.txt",
+    "static/media/1-venusaur2.6e2becad.png": "/Pokemon-routes-with-Router-Dom/static/media/1-venusaur2.6e2becad.png",
+    "static/media/2-charizard2.1184e23a.png": "/Pokemon-routes-with-Router-Dom/static/media/2-charizard2.1184e23a.png",
+    "static/media/3-blastoise.d72c2400.png": "/Pokemon-routes-with-Router-Dom/static/media/3-blastoise.d72c2400.png",
+    "static/media/4-pikachu.0f6320b0.png": "/Pokemon-routes-with-Router-Dom/static/media/4-pikachu.0f6320b0.png",
+    "static/media/gardevoir.1d094fc1.png": "/Pokemon-routes-with-Router-Dom/static/media/gardevoir.1d094fc1.png",
+    "static/media/lucario.4bf3435e.png": "/Pokemon-routes-with-Router-Dom/static/media/lucario.4bf3435e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.68f0958c.js",
-    "static/js/2.7e15d7c3.chunk.js",
+    "static/js/runtime-main.2b6aadcc.js",
+    "static/js/2.d2841854.chunk.js",
     "static/js/main.35461860.chunk.js"
   ]
 }
